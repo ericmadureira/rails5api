@@ -1,24 +1,11 @@
-# README
+Ruby 2.5 and Rails 5 API example.  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+More updates and detailed information soon.  
 
-Things you may want to cover:
+How-to  
+1. Make sure you have Ruby installed.  
+2. Change config/database.yml and gemfile if you aren't using MySql.  
+3. Run 'bundle install', 'rake db:create', 'rake db:migrate', 'rake db:seed'  
+4. Start the api with 'rails server' and test it with http requests.  
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Author: Eric Madureira  
